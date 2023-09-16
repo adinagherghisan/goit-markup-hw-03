@@ -151,7 +151,8 @@ header .visually-hidden {
   .gallery-section ul{display: flex;
     flex-direction: row;
     justify-content: space-between;
-    padding-top: 50px;}
+    padding-top: 50px;
+gap: 30px;}
 
  .gallery-section h2{
     color: #212121;
